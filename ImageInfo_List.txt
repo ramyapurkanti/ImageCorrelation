@@ -1,0 +1,2 @@
+FileName	NumberFrames	NumberSlices	NumberChannels	NumberAlleles
+Input_sample_image.tif	20	73	9	2
