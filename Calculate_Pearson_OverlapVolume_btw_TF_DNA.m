@@ -1,4 +1,5 @@
 tdfread('ImageInfo_List.txt');
+
 fileID = fopen('PearsonCoeff_Matlab_actual_scramble.txt','w');
 fileID2 = fopen('OverlapVolume_Matlab.txt','w');
 fprintf(fileID,'FileName\tFrame\tAllele1\tAllele1_scramble\tAllele1_scramble_bootstrap\tAllele2\tAllele2_scramble\tAllele2_scramble_bootstrap\n');
